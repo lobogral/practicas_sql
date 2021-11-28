@@ -5,7 +5,7 @@
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/3.0/
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%203.0-lightgrey.svg
 
-Implementación de modelos relacionales descritos en distintas páginas web usando SQLite.
+Implementación de modelos relacionales descritos en Wikipedia usando SQLite.
 
 Los modelos relaciones que se muestran abordan principios como:
 
