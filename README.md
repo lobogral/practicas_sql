@@ -9,7 +9,7 @@ Implementación de modelos relacionales descritos en Wikipedia usando SQLite.
 
 Los modelos relaciones que se muestran abordan principios como:
 
-1. Formas Normales [^fn1][^fn2][^fn3].
+1. Formas Normales (FN) [^fn1][^fn2][^fn3].
 
 ## Ejecución
 
