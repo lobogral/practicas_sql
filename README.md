@@ -10,6 +10,7 @@ Implementación de modelos relacionales descritos en Wikipedia usando SQLite.
 Los modelos relaciones que se muestran abordan principios como:
 
 1. Formas Normales (FN) [^fn1][^fn2][^fn3].
+2. Combinación de tablas (JOINS) [^fn5].
 
 ## Ejecución
 
@@ -23,3 +24,4 @@ Sólo es necesario:
 [^fn2]: https://es.wikipedia.org/wiki/Segunda_forma_normal
 [^fn3]: https://es.wikipedia.org/wiki/Tercera_forma_normal
 [^fn4]: https://sqliteonline.com/
+[^fn5]: https://es.wikipedia.org/wiki/Sentencia_JOIN_en_SQL
