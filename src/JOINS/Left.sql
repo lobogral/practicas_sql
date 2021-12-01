@@ -1,3 +1,3 @@
 SELECT Empleados.apellido Empleado, Departamentos.nombre Departamento 
-FROM Empleados INNER JOIN Departamentos
+FROM Empleados LEFT JOIN Departamentos
 ON Empleados.idDepartamento = Departamentos.id
