@@ -9,6 +9,7 @@ Implementación de modelos relacionales descritos en Wikipedia usando SQLite.
 
 Los modelos relaciones que se muestran abordan principios como:
 
+1. Lenguaje de definición de datos (DDL) [^fn6]
 1. Formas Normales (FN) [^fn1][^fn2][^fn3].
 2. Combinación de tablas (JOINS) [^fn5].
 
@@ -25,3 +26,4 @@ Sólo es necesario:
 [^fn3]: https://es.wikipedia.org/wiki/Tercera_forma_normal
 [^fn4]: https://sqliteonline.com/
 [^fn5]: https://es.wikipedia.org/wiki/Sentencia_JOIN_en_SQL
+[^fn6]: https://es.wikipedia.org/wiki/Lenguaje_de_definición_de_datos
