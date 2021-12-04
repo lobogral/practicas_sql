@@ -13,6 +13,7 @@ Los modelos relaciones que se muestran abordan principios como:
 2. Lenguaje de manipulación de datos (DML) [^fn7].
 3. Combinación de tablas (JOINS) [^fn5].
 4. Formas Normales (FN) [^fn1][^fn2][^fn3].
+5. Triggers.
 
 ## Ejecución
 
