@@ -1,0 +1,1 @@
+DELETE FROM Persona WHERE id=123;
