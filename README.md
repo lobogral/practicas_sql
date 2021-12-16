@@ -5,9 +5,9 @@
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/3.0/
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%203.0-lightgrey.svg
 
-Implementación de modelos relacionales descritos en Wikipedia usando SQLite.
+Implementación de comandos SQL descritos en Wikipedia usando SQLite.
 
-Los modelos relaciones que se muestran abordan principios como:
+Los comandos que se muestran abordan principios como:
 
 1. Lenguaje de definición de datos (DDL) [^fn6].
 2. Lenguaje de manipulación de datos (DML) [^fn7].
