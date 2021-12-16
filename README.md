@@ -20,7 +20,7 @@ Los modelos relaciones que se muestran abordan principios como:
 Sólo es necesario:
 
 1. Acceder a sqliteonline.com [^fn4].
-2. Copiar y pegar el código del repositorio.
+2. Copiar y pegar el código que se encuentra en la carpeta ``src/``.
 3. Ejecutar el código.
 
 [^fn1]: https://es.wikipedia.org/wiki/Primera_forma_normal
