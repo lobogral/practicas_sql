@@ -13,7 +13,7 @@ Los comandos que se muestran abordan principios como:
 2. Lenguaje de manipulación de datos (DML) [^fn7].
 3. Combinación de tablas (JOINS) [^fn5].
 4. Formas Normales (FN) [^fn1][^fn2][^fn3].
-5. Triggers.
+5. Triggers [^fn8].
 
 ## Ejecución
 
@@ -30,3 +30,4 @@ Sólo es necesario:
 [^fn5]: https://es.wikipedia.org/wiki/Sentencia_JOIN_en_SQL
 [^fn6]: https://es.wikipedia.org/wiki/Lenguaje_de_definición_de_datos
 [^fn7]: https://es.wikipedia.org/wiki/Lenguaje_de_manipulación_de_datos
+[^fn8]: https://es.wikipedia.org/wiki/Trigger_(base_de_datos)
