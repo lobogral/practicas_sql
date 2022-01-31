@@ -1,4 +1,4 @@
-# practicas_sql
+# wikisql
 
 [![CC BY-SA 3.0][cc-by-sa-shield]][cc-by-sa]
 
